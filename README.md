@@ -476,6 +476,7 @@ getAttendance return array 2 dimension. The value of array is array containing.
 * serial number of the user
 * user id of the application
 * state
+* function key value
 * time of attendance in format YYYY-MM-DD HH:II:SS
 ```php
 clearAttendance()

@@ -5,6 +5,8 @@ Web server must be connected to the attendance device via Local Area Network (LA
 
 The format of the data are: binary, string, and number. The length of the parameter and return value must be vary.
 
+This fork adds the return of fkey value in attendance data, from devices that have function keys by example: zkteco iface302.
+
 ## Example
 ```php
 <?php
